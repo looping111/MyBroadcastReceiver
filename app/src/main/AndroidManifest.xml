@@ -31,7 +31,6 @@
 
     <activity
             android:name=".SmsReceiverActivity"
-            android:exported="false"
             android:theme="@style/Theme.SmsReceiver.Dialog" />
         <activity
             android:name=".MainActivity"
